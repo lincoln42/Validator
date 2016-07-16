@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validator", "Validator\Validator.csproj", "{B859DFE4-28B8-413B-9F68-38B0BF3DA222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validator.Tests", "Validator.Tests\Validator.Tests.csproj", "{D94EABB1-EDC9-497E-B506-0EFDB06A6F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{56F4D1A1-4FAA-4D60-8B67-9E3922FAFC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B859DFE4-28B8-413B-9F68-38B0BF3DA222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B859DFE4-28B8-413B-9F68-38B0BF3DA222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B859DFE4-28B8-413B-9F68-38B0BF3DA222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B859DFE4-28B8-413B-9F68-38B0BF3DA222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94EABB1-EDC9-497E-B506-0EFDB06A6F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94EABB1-EDC9-497E-B506-0EFDB06A6F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94EABB1-EDC9-497E-B506-0EFDB06A6F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94EABB1-EDC9-497E-B506-0EFDB06A6F85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F4D1A1-4FAA-4D60-8B67-9E3922FAFC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F4D1A1-4FAA-4D60-8B67-9E3922FAFC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F4D1A1-4FAA-4D60-8B67-9E3922FAFC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F4D1A1-4FAA-4D60-8B67-9E3922FAFC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
